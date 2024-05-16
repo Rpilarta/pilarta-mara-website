@@ -1,0 +1,21 @@
+.schedule {
+    display: grid;
+    grid-template-columns: 100px repeat(5, 1fr); /* Adjust column widths as needed */
+    grid-template-rows: repeat(11, auto); /* Adjust row heights as needed */
+    gap: 5px; /* Adjust gap between grid items */
+}
+
+.time,
+.day,
+.event {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.time {
+    font-weight: bold;
+}
+
+.event {
+    background-color: #f2f2f2;
+}

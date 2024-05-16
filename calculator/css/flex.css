@@ -1,0 +1,22 @@
+.flex-container {
+    display: flex;
+    height: 500px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /*align-items: center;*/
+    /*justify-content: space-between;*/
+    /*justify-content: flex-end;*/
+    /*justify-content: flex-start*/
+    /*flex-wrap: wrap_reverse;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    background-color: pink;
+}
+
+.flex-container>div {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}

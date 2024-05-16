@@ -1,0 +1,145 @@
+.fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: white;
+    color: blue;
+    width: 100%;
+    padding: 10px;
+}
+
+.fixed1 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: grey;
+    color: black;
+    width: 100%;
+    padding: 10px;
+}
+
+.static1 {
+    position: static;
+    background-color: white;
+    color: black;
+    margin-top: 8%;
+    padding: 10px;
+    border: 5px solid gray;
+    height: 300px;
+    width: 800px;
+}
+
+.static {
+    position: static;
+    background-color: white;
+    color: black;
+    margin: 2px;
+    padding: 10px;
+    border: 5px solid gray;
+    height: 300px;
+    width: 800px;
+}
+
+.absolute1 {
+    position: absolute;
+    right: 0;
+    top: 15%;
+    width: 420px;
+    height: auto;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid gray;
+}
+
+.absolute2 {
+    position: absolute;
+    right: 0;
+    top: 25%;
+    width: 420px;
+    height: auto;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid gray;
+}
+
+.absolute3 {
+    position: absolute;
+    right: 0;
+    top: 35%;
+    width: 420px;
+    height: auto;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid gray;
+}
+
+.absolute4 {
+    position: absolute;
+    right: 0;
+    top: 45%;
+    width: 420px;
+    height: auto;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid gray;
+}
+
+.absolute5 {
+    position: absolute;
+    right: 0;
+    top: 55%;
+    width: 420px;
+    height: auto;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid gray;
+}
+
+.absolute6 {
+    position: absolute;
+    right: 0;
+    top: 65%;
+    width: 420px;
+    height: auto;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid gray;
+}
+
+.absolute7 {
+    position: absolute;
+    right: 0;
+    top: 75%;
+    width: 420px;
+    height: auto;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid gray;
+}
+
+.absolute8 {
+    position: absolute;
+    right: 0;
+    top: 85%;
+    width: 420px;
+    height: auto;
+    background-color: white;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid gray;
+}

@@ -1,0 +1,55 @@
+.flex-container {
+    display: flex;
+    height: 600px;
+    width: 350px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    /*align-items: center;*/
+    /*justify-content: space-between;*/
+    /*justify-content: flex-end;*/
+    /*justify-content: flex-start*/
+    /*flex-wrap: wrap_reverse;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    background-color: gray;
+}
+
+.flex-container>button {
+    background-color: beige;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#number-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    width: 70vh;
+}
+
+#operation-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    width: 70vh;
+}
+
+#previous {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    width: 70vh;
+}
